@@ -25,6 +25,7 @@
 body{
     height: 100vh;
     background: url(../images/SL-090119-22970-03.jpg) center/cover;
+    background-attachment: fixed;
     color: var(--text_color);
     font-family: var(--font_family);
 }
